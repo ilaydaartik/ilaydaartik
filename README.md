@@ -2,7 +2,13 @@
                    
 - 🌱 I’m currently learning Python and AI
 - 📫 How to reach me ilaydaartik@gmail.com
-- ⚡ Fun fact: ...
+
+Connect with me:
+
+https://www.linkedin.com/in/ilaydaartik/
+
+
+
 
 <!---
 ilaydaartik/ilaydaartik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
