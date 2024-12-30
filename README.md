@@ -16,9 +16,9 @@ Connect with me:
 >
   <a
     class='LI-simple-link'
-    href='https://in.linkedin.com/in/manavoza7?trk=profile-badge'
+    href='https://in.linkedin.com/in/ilaydaartik?trk=profile-badge'
   >
-    Manav Oza
+    Ilayda Artik
   </a>
 </div>
 
