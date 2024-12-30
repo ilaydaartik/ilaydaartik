@@ -8,8 +8,7 @@ Connect with me:
 [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//https://www.linkedin.com/in/ilaydaartik/"
-
+    link = "//linkedin.com/in/ilaydaartik"
 
 
 
