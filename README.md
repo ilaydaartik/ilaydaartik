@@ -1,6 +1,6 @@
 - 👋 Hi, I’m İlayda
 - 🌱 I’m currently learning Python and AI
-- 📫 How to reach me https://www.linkedin.com/in/ilaydaartik/
+- 📫 How to reach me ilaydaartik@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
