@@ -5,12 +5,10 @@
 
 Connect with me:
 
-![image]({https://img.shields.io/badge/[LinkedIn-0077B5?style](https://www.linkedin.com/in/ilaydaartik/)=for-the-badge&logo=linkedin&logoColor=white})
-
-
-
-
-
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//https://www.linkedin.com/in/ilaydaartik/"
 
 
 
