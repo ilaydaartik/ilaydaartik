@@ -1,4 +1,5 @@
-- 👋 Hi, I’m İlayda
+                   Hi 👋🏻, I’m İlayda
+                   
 - 🌱 I’m currently learning Python and AI
 - 📫 How to reach me ilaydaartik@gmail.com
 - ⚡ Fun fact: ...
